@@ -1,3 +1,5 @@
+// lol
+
 #include<math.h>
 #include<stdio.h>
 
